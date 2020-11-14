@@ -9,6 +9,7 @@ const { google } = require('googleapis');
 const fetch = require('node-fetch');
 var cloudinary = require('cloudinary').v2;
 
+//telegrambot
 cloudinary.config({
   cloud_name: 'do0yfzmul',
   api_key: '654566752673543',
